@@ -1,0 +1,18 @@
+# Compiled
+*/target/
+*/build/
+
+# Log file
+*.log
+
+# virtual machine crash logs
+hs_err_pid*
+
+# JetBrains
+.idea/
+*.iml
+out/
+*.iws
+
+# JAR
+*.jar
